@@ -1,0 +1,7 @@
+{
+	"name": "lambda_at_edge_fp_cookie_uuid",
+	"dependencies": {
+		"cookie": "^0.4.1",
+		"uuid": "^8.3.2"
+	}
+}
